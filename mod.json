@@ -1,21 +1,16 @@
 {
-	"geode": "4.8.0",
-	"version": "v1.1.0-beta.1",
+	"geode": "5.0.0-beta.2",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081",
+		"android": "2.2081"
 	},
 	"id": "ml5.improved-paths",
 	"name": "Improved Paths",
-	"developers": [
-		"ML500"
-	],
+	"version": "v1.1.1-beta.1",
+	"developer": "ML500",
 	"description": "Small additions to the Paths of Power",
-	"links": {
-		"community": "https://discord.gg/tFUyJw5"
-	},
 	"settings": {
 		"last-reward": {
 			"type": "bool",
@@ -23,6 +18,11 @@
 			"description": "Display the final reward you get from a <cy>Special chest</c> upon completing the path",
 			"default": true
 		}
+	},
+	"links": {
+		"source": "https://github.com/MasterL500/ImprovedPaths-geode",
+		"community": "https://discord.gg/tFUyJw5",
+		"homepage": "https://ml500.carrd.co/"
 	},
 	"tags": [
 		"interface",
