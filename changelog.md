@@ -1,8 +1,12 @@
 # Changelog
 
-## <cg>v1.1.0-beta.1 (Latest)</c>
+### <cg>v1.1.1</c> (Latest version)
 
-* <cg>Added</c> info about the Special chest rewards upon completing a path
+* <co>Ported to Geode v5.0.0</c>
+
+### <cb>v1.1.0</c>
+
+* <cg>Added</c> info about the special chest rewards upon completing a path
 * <cg>Added</c> option to disable it.
 
 ### <cb>v1.0.1</c>
@@ -11,4 +15,4 @@
 
 ### <cb>v1.0.0</c>
 
-* Public release
+* Initial Release.
